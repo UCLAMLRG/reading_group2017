@@ -13,6 +13,8 @@ Machine learning is a topic that has risen in prominence recently as we get more
 ## Schedule
 Meetings will take place on Fridays at 11 am to Noon in PAB-4-330. Room changes will be sent via email.
 
+**Organizers**: Tuan Do ([@followthesheep](https://github.com/followthesheep)), Bernie Randles ([@brandles](https://github.com/brandles))
+
 | Date | Topic | Readings | Presenter |
 | --- | --- | --- | --- |
 |2017-04-14| Introduction to Machine Learning | Ch1 Goodfellow, Ch1 Kelleher, [Install software](https://github.com/UCLAMLRG/Basics) |
