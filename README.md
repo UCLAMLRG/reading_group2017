@@ -10,6 +10,17 @@ Machine learning is a topic that has risen in prominence recently as we get more
   - https://github.com/HFTrader/DeepLearningBook
 - Data Analysis: A Bayesian Tutorial - Sivia, D. & Skilling, J. - Not part of regular reading, but this is a useful reference for Bayesian statistics
 
+## Topics
+Potential topics this quarter:
+- Classification
+- Naive Bayes
+- Multinomial Bayes
+- Support Vector Machines
+- Ensemble
+- Random Forest
+- Decision Trees
+- Hierarchical clustering
+
 ## Schedule
 Meetings will take place on Fridays at 11 am to Noon in PAB-4-330. Room changes will be sent via email.
 
@@ -26,3 +37,5 @@ Meetings will take place on Fridays at 11 am to Noon in PAB-4-330. Room changes 
 |2017-05-26| TBD |
 |2017-06-02| TBD |
 |2017-06-09| TBD |
+
+## Participants
