@@ -45,7 +45,7 @@ Meetings will take place on Fridays at 11 am to Noon in PAB-4-330. Room changes 
 - B.	Hansen
 - C.	Tsai
 - D.	Cohen
-- D.	Chu
+- D.	Chu [@dchu808](https://github.com/dchu808)
 - E.	Martin
 - G.	Martinez
 - I.	Pasquetto
