@@ -16,11 +16,13 @@ As an exercise to learn git, let's fork the reading group repository, edit the r
 7. Do ``git remote -v`` again. There should be a new link called ``upstream``
 8. Make add your github username line next to your name in the README file under Participants section
   - ``A. Name [@USERNAME](https://github.com/USERNAME)``
-9. Save your file and then commit your changes
+9. Save your file and then add it to the staging area
+  - ``git add README.md``
+10. Commit your staged changes
   - ``git commit -m "added username link to readme"``
-10. Push your changes to YOUR github repository
+11. Push your changes to YOUR github repository
   - ``git push origin master``
-11. Click on the pull request button on YOUR repository webpage
-12. Submit the pull request to the master branch of the https://github.com/UCLAMLRG/reading_group2017 repository
-13. Once your pull request is merged, you can pull the changes back into your repository
+12. Click on the pull request button on YOUR repository webpage
+13. Submit the pull request to the master branch of the https://github.com/UCLAMLRG/reading_group2017 repository
+14. Once your pull request is merged, you can pull the changes back into your repository
   - ``git pull upstream master``
