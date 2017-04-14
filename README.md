@@ -61,5 +61,6 @@ Meetings will take place on Fridays at 11 am to Noon in PAB-4-330. Room changes 
 - M.	Golshan
 - S.	Sakai
 - T.	Do
-- X.	Wang
+- X.	Wang [@albertfxwang](https://github.com/albertfxwang)
 - Y.	Chiou [@yschiou](https://github.com/yschiou)
+
