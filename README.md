@@ -42,8 +42,8 @@ Meetings will take place on Fridays at 11 am to Noon in PAB-4-330. Room changes 
 
 - A.	Dehghanfar [@arezud](http://github.com/arezud)
 - A.	Gautam [@abhimat](https://github.com/abhimat)
-- A.	Hees [@auhees] (https://github.com/auhees)
-- B.	Randles
+- A.	Hees [@auhees](https://github.com/auhees)
+- B.	Randles [@brandles](https://github.com/brandles)
 - B.	Hansen
 - C.	Tsai
 - D.	Cohen [@dcohen123](https://github.com/dcohen123)
