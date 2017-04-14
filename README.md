@@ -62,4 +62,4 @@ Meetings will take place on Fridays at 11 am to Noon in PAB-4-330. Room changes 
 - S.	Sakai
 - T.	Do
 - X.	Wang
-- Y.	Chiou
+- Y.	Chiou [@yschiou](https://github.com/yschiou)
