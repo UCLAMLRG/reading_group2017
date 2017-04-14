@@ -49,7 +49,7 @@ Meetings will take place on Fridays at 11 am to Noon in PAB-4-330. Room changes 
 - E.	Martin
 - G.	Martinez
 - I.	Pasquetto
-- J.	Ryan
+- J.	Ryan [@Jamieryan](https://github.com/Jamieryan)
 - J.	Margo
 - J.	Salas
 - J. 	Zink
