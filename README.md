@@ -54,7 +54,7 @@ Meetings will take place on Fridays at 11 am to Noon in PAB-4-330. Room changes 
 - J.	Salas [@jesusms007](https://github.com/jesusms007)
 - J. 	Zink
 - J.	Samani
-- K.	Kosmo
+- K.	Kosmo [@kkosmo](https://github.com/kkosmo)
 - L.	Jensen
 - M.	Topping [@michaeltopping](https://github.com/michaeltopping)
 - M.	Fitzgerald [@astrofitz](https://github.com/astrofitz)
