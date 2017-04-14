@@ -40,7 +40,7 @@ Meetings will take place on Fridays at 11 am to Noon in PAB-4-330. Room changes 
 
 ## Participants
 - A.	Gautam
-- A.	Hees [@auhees] (https://github.com/auhees)
+- A.	Hees [@auhees](https://github.com/auhees)
 - B.	Randles
 - B.	Hansen
 - C.	Tsai
