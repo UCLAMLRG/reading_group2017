@@ -44,22 +44,23 @@ Meetings will take place on Fridays at 11 am to Noon in PAB-4-330. Room changes 
 - B.	Randles
 - B.	Hansen
 - C.	Tsai
-- D.	Cohen
+- D.	Cohen [@dcohen123](https://github.com/dcohen123)
 - D.	Chu [@dchu808](https://github.com/dchu808)
 - E.	Martin
-- G.	Martinez
+- G.	Martinez [@gregorydavidmartinez](https://github.com/gregorydavidmartinez)
 - I.	Pasquetto
-- J.	Ryan
+- J.	Ryan [@Jamieryan](https://github.com/Jamieryan)
 - J.	Margo
-- J.	Salas
+- J.	Salas [@jesusms007](https://github.com/jesusms007)
 - J. 	Zink
 - J.	Samani
-- K.	Kosmo
+- K.	Kosmo [@kkosmo](https://github.com/kkosmo)
 - L.	Jensen
 - M.	Topping [@michaeltopping](https://github.com/michaeltopping)
 - M.	Fitzgerald [@astrofitz](https://github.com/astrofitz)
 - M.	Golshan
 - S.	Sakai
 - T.	Do
-- X.	Wang
+- X.	Wang [@albertfxwang](https://github.com/albertfxwang)
 - Y.	Chiou [@yschiou](https://github.com/yschiou)
+
