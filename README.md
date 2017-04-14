@@ -58,7 +58,7 @@ Meetings will take place on Fridays at 11 am to Noon in PAB-4-330. Room changes 
 - L.	Jensen
 - M.	Topping
 - M.	Fitzgerald [@astrofitz](https://github.com/astrofitz)
-- M.	Golshan
+- M.	Golshan [@milenasg](https://github.com/milenasg)
 - S.	Sakai
 - T.	Do
 - X.	Wang
