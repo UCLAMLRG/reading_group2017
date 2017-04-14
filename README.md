@@ -28,8 +28,8 @@ Meetings will take place on Fridays at 11 am to Noon in PAB-4-330. Room changes 
 
 | Date | Topic | Readings | Presenter |
 | --- | --- | --- | --- |
-|2017-04-14| Introduction to Machine Learning | Ch1 Goodfellow, Ch1 Kelleher, [Install software](https://github.com/UCLAMLRG/Basics) |
-|2017-04-21| Review of Probability | Ch 6.1 & 6.2 Kelleher |
+|2017-04-14| Introduction to Machine Learning | Ch1 Goodfellow, Ch1 Kelleher, [Install software](https://github.com/UCLAMLRG/Basics) | B. Randles, T. Do |
+|2017-04-21| Review of Probability | Ch 6.1 & 6.2 Kelleher | T. Do, G. Martinez|
 |2017-04-28| Naive Bayes - Intro |
 |2017-05-05| Naive Bayes - continued |
 |2017-05-12| TBD |
@@ -39,3 +39,27 @@ Meetings will take place on Fridays at 11 am to Noon in PAB-4-330. Room changes 
 |2017-06-09| TBD |
 
 ## Participants
+- A.	Gautam
+- A.	Hees
+- B.	Randles
+- B.	Hansen
+- C.	Tsai
+- D.	Cohen
+- D.	Chu
+- E.	Martin
+- G.	Martinez
+- I.	Pasquetto
+- J.	Ryan
+- J.	Margo
+- J.	Salas
+- J. 	Zink
+- J.	Samani
+- K.	Kosmo
+- L.	Jensen
+- M.	Topping
+- M.	Fitzgerald
+- M.	Golshan
+- S.	Sakai
+- T.	Do
+- X.	Wang
+- Y.	Chiou
