@@ -39,27 +39,33 @@ Meetings will take place on Fridays at 11 am to Noon in PAB-4-330. Room changes 
 |2017-06-09| TBD |
 
 ## Participants
+<<<<<<< HEAD
 - A.	Gautam
 - A.	Hees [@auhees](https://github.com/auhees)
+=======
+- A.	Gautam [@abhimat](https://github.com/abhimat)
+- A.	Hees [@auhees](https://github.com/auhees)
+>>>>>>> 362c1f316a036771416e5a7b5764bb42ef983319
 - B.	Randles
 - B.	Hansen
 - C.	Tsai
-- D.	Cohen
-- D.	Chu
+- D.	Cohen [@dcohen123](https://github.com/dcohen123)
+- D.	Chu [@dchu808](https://github.com/dchu808)
 - E.	Martin
-- G.	Martinez
-- I.	Pasquetto
-- J.	Ryan
+- G.	Martinez [@gregorydavidmartinez](https://github.com/gregorydavidmartinez)
+- I.	Pasquetto [@irenepasquetto](https://github.com/irenepasquetto)
+- J.	Ryan [@Jamieryan](https://github.com/Jamieryan)
 - J.	Margo
-- J.	Salas
-- J. 	Zink
+- J. 	Zink [@jzink123](https://github.com/jzink123)
+- J.	Salas [@jesusms007](https://github.com/jesusms007)
 - J.	Samani
-- K.	Kosmo
+- K.	Kosmo [@kkosmo](https://github.com/kkosmo)
 - L.	Jensen
-- M.	Topping
+- M.	Topping [@michaeltopping](https://github.com/michaeltopping)
 - M.	Fitzgerald [@astrofitz](https://github.com/astrofitz)
 - M.	Golshan
 - S.	Sakai
-- T.	Do
-- X.	Wang
-- Y.	Chiou
+- T.	Do [@followthesheep](https://github.com/followthesheep)
+- X.	Wang [@albertfxwang](https://github.com/albertfxwang)
+- Y.	Chiou [@yschiou](https://github.com/yschiou)
+
