@@ -48,7 +48,7 @@ Meetings will take place on Fridays at 11 am to Noon in PAB-4-330. Room changes 
 - D.	Chu
 - E.	Martin
 - G.	Martinez
-- I.	Pasquetto
+- I.	Pasquetto@irenepasquetto
 - J.	Ryan
 - J.	Margo
 - J.	Salas
