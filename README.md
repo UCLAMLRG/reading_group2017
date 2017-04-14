@@ -51,7 +51,7 @@ Meetings will take place on Fridays at 11 am to Noon in PAB-4-330. Room changes 
 - I.	Pasquetto
 - J.	Ryan
 - J.	Margo
-- J.	Salas
+- J.	Salas [@jesusms007](https://github.com/jesusms007)
 - J. 	Zink
 - J.	Samani
 - K.	Kosmo
