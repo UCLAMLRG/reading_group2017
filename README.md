@@ -39,7 +39,7 @@ Meetings will take place on Fridays at 11 am to Noon in PAB-4-330. Room changes 
 |2017-06-09| TBD |
 
 ## Participants
-- A.	Gautam
+- A.	Gautam [@abhimat](https://github.com/abhimat)
 - A.	Hees
 - B.	Randles
 - B.	Hansen
