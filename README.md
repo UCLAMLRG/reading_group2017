@@ -40,7 +40,7 @@ Meetings will take place on Fridays at 11 am to Noon in PAB-4-330. Room changes 
 
 ## Participants
 - A.	Gautam [@abhimat](https://github.com/abhimat)
-- A.	Hees
+- A.	Hees [@auhees] (https://github.com/auhees)
 - B.	Randles
 - B.	Hansen
 - C.	Tsai
@@ -48,11 +48,11 @@ Meetings will take place on Fridays at 11 am to Noon in PAB-4-330. Room changes 
 - D.	Chu [@dchu808](https://github.com/dchu808)
 - E.	Martin
 - G.	Martinez [@gregorydavidmartinez](https://github.com/gregorydavidmartinez)
-- I.	Pasquetto
+- I.	Pasquetto [@irenepasquetto](https://github.com/irenepasquetto)
 - J.	Ryan [@Jamieryan](https://github.com/Jamieryan)
 - J.	Margo
+- J. 	Zink [@jzink123](https://github.com/jzink123)
 - J.	Salas [@jesusms007](https://github.com/jesusms007)
-- J. 	Zink
 - J.	Samani
 - K.	Kosmo [@kkosmo](https://github.com/kkosmo)
 - L.	Jensen
@@ -60,7 +60,7 @@ Meetings will take place on Fridays at 11 am to Noon in PAB-4-330. Room changes 
 - M.	Fitzgerald [@astrofitz](https://github.com/astrofitz)
 - M.	Golshan
 - S.	Sakai
-- T.	Do
+- T.	Do [@followthesheep](https://github.com/followthesheep)
 - X.	Wang [@albertfxwang](https://github.com/albertfxwang)
 - Y.	Chiou [@yschiou](https://github.com/yschiou)
 
