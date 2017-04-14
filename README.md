@@ -52,7 +52,7 @@ Meetings will take place on Fridays at 11 am to Noon in PAB-4-330. Room changes 
 - J.	Ryan
 - J.	Margo
 - J.	Salas
-- J. 	Zink
+- J. 	Zink [@jzink123](https://github.com/jzink123)
 - J.	Samani
 - K.	Kosmo
 - L.	Jensen
