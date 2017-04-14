@@ -47,7 +47,7 @@ Meetings will take place on Fridays at 11 am to Noon in PAB-4-330. Room changes 
 - D.	Cohen
 - D.	Chu
 - E.	Martin
-- G.	Martinez
+- G.	Martinez [@gregorydavidmartinez](https://github.com/gregorydavidmartinez)
 - I.	Pasquetto
 - J.	Ryan
 - J.	Margo
