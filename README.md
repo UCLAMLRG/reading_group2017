@@ -30,18 +30,20 @@ Meetings will take place on Fridays at 11 am to Noon in PAB-4-330. Room changes 
 | --- | --- | --- | --- |
 |2017-04-14| Introduction to Machine Learning | Ch1 Goodfellow, Ch1 Kelleher, [Install software](https://github.com/UCLAMLRG/Basics) | B. Randles, T. Do |
 |2017-04-21| Review of Probability | Ch 6.1 & 6.2 Kelleher | T. Do, G. Martinez|
-|2017-04-28| Naive Bayes - Intro |
-|2017-05-05| Naive Bayes - continued |
-|2017-05-12| TBD |
-|2017-05-19| TBD |
-|2017-05-26| TBD |
-|2017-06-02| TBD |
-|2017-06-09| TBD |
+|2017-04-28| Naive Bayes - Intro | |B. Randles, T. Do |
+|2017-05-05| Naive Bayes - continued | | A. Hees |
+|2017-05-12| TBD | | X. Wang, Y. Chiou |
+|2017-05-19| TBD | | A. Gautam, D Cohen, K. Kosmo |
+|2017-05-26| TBD | | J. Salas, J. Zink |
+|2017-06-02| TBD | | D. Chu, M. Topping, J. Ryan |
+|2017-06-09| TBD | | A. Dehghanfar |
 
 ## Participants
+
+- A.	Dehghanfar [@arezud](http://github.com/arezud)
 - A.	Gautam [@abhimat](https://github.com/abhimat)
-- A.	Hees [@auhees] (https://github.com/auhees)
-- B.	Randles
+- A.	Hees [@auhees](https://github.com/auhees)
+- B.	Randles [@brandles](https://github.com/brandles)
 - B.	Hansen
 - C.	Tsai
 - D.	Cohen [@dcohen123](https://github.com/dcohen123)
@@ -58,9 +60,8 @@ Meetings will take place on Fridays at 11 am to Noon in PAB-4-330. Room changes 
 - L.	Jensen
 - M.	Topping [@michaeltopping](https://github.com/michaeltopping)
 - M.	Fitzgerald [@astrofitz](https://github.com/astrofitz)
-- M.	Golshan
+- M.	Golshan [@milenasg](https://github.com/milenasg)
 - S.	Sakai
 - T.	Do [@followthesheep](https://github.com/followthesheep)
 - X.	Wang [@albertfxwang](https://github.com/albertfxwang)
 - Y.	Chiou [@yschiou](https://github.com/yschiou)
-
