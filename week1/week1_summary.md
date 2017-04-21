@@ -26,3 +26,7 @@ As an exercise to learn git, let's fork the reading group repository, edit the r
 13. Submit the pull request to the master branch of the https://github.com/UCLAMLRG/reading_group2017 repository
 14. Once your pull request is merged, you can pull the changes back into your repository
   - ``git pull upstream master``
+
+## Notes on machine learning terminology
+- Features - this is usually known as parameters for physicists when we do parameter estimation.
+- 

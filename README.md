@@ -68,4 +68,3 @@ Meetings will take place on Fridays at 11 am to Noon in PAB-4-330. Room changes 
 - T.	Do [@followthesheep](https://github.com/followthesheep)
 - X.	Wang [@albertfxwang](https://github.com/albertfxwang)
 - Y.	Chiou [@yschiou](https://github.com/yschiou)
-
