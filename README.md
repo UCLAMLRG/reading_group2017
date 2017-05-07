@@ -34,11 +34,11 @@ Meetings will take place on Fridays at 11 am to Noon in PAB-4-330. Room changes 
 |2017-04-21| Review of Probability | Ch 6.1 & 6.2 Kelleher | T. Do, G. Martinez|
 |2017-04-28| Naive Bayes - Intro | Ch 6.3, 6.4.1, 6.4.2 Kelleher, Problem 6 |B. Randles, T. Do |
 |2017-05-05 | Naive Bayes - continued, LOCATION CHANGE: PAB3-703 | Ch 6.4.1, 6.4.2, and 6.4.3 Kellher, Problem 6.3 | A. Hees |
-|2017-05-12| TBD | | X. Wang, Y. Chiou |
+|2017-05-12| Hyperparameters and Model Validation | [Python Data Science Handbook, Ch. 5.3](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.03-Hyperparameters-and-Model-Validation.ipynb) | X. Wang, Y. Chiou |
 |2017-05-19| TBD | | A. Gautam, D Cohen, K. Kosmo |
 |2017-05-26| TBD | | J. Salas, J. Zink |
-|2017-06-02| TBD | | D. Chu, M. Topping, J. Ryan |
-|2017-06-09| TBD | | A. Dehghanfar |
+|2017-06-02| TBD | | M. Topping, J. Ryan |
+|2017-06-09| TBD | | D. Chu, |
 
 ## Participants
 
