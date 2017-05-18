@@ -35,7 +35,7 @@ Meetings will take place on Fridays at 11 am to Noon in PAB-4-330. Room changes 
 |2017-04-28| Naive Bayes - Intro | Ch 6.3, 6.4.1, 6.4.2 Kelleher, Problem 6 |B. Randles, T. Do |
 |2017-05-05 | Naive Bayes - continued, LOCATION CHANGE: PAB3-703 | Ch 6.4.1, 6.4.2, and 6.4.3 Kellher, Problem 6.3 | A. Hees |
 |2017-05-12| Introduction to Scikit-Learn, Hyperparameters and Model Validation | Python Data Science Handbook, [Ch. 5.2](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.02-Introducing-Scikit-Learn.ipynb), [Ch. 5.3](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.03-Hyperparameters-and-Model-Validation.ipynb) | X. Wang, Y. Chiou |
-|2017-05-19| TBD | | A. Gautam, D Cohen, K. Kosmo |
+|2017-05-19| Support Vector Machines | Python Data Science Handbook, [5.7: In-Depth: Support Vector Machines](http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.07-Support-Vector-Machines.ipynb), Supplementary Reading: [Hands-On Machine Learning](http://proquest.safaribooksonline.com/book/programming/9781491962282), Chapter 5 | A. Gautam, D. Cohen, K. Kosmo |
 |2017-05-26| TBD | | J. Salas, J. Zink |
 |2017-06-02| TBD | | M. Topping, J. Ryan |
 |2017-06-09| TBD | | D. Chu, |
