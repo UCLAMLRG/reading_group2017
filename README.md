@@ -14,6 +14,8 @@ Machine learning is a topic that has risen in prominence recently as we get more
   - Safari Books Online: http://proquest.safaribooksonline.com/book/programming/9781491962282
   - github page: https://github.com/ageron/handson-ml
 - Data Analysis: A Bayesian Tutorial - Sivia, D. & Skilling, J. - Not part of regular reading, but this is a useful reference for Bayesian statistics
+## Extra Readings
+-Kirkpatrick, K. (2017). It's not the algorithm, it's the data. <i>Communications of the ACM</i>, 60(2), 21-23. https://doi.org/10.1145/3022181 
 
 ## Topics
 Potential topics this quarter:
